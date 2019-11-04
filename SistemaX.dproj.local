@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/15 16:24:50.000.304,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/19 11:11:55.000.955,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/19 11:21:04.000.481,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/19 11:34:04.000.616,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/19 11:51:57.000.833,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/19 12:13:53.000.607,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/29 11:21:15.000.611,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/01 14:45:58.000.583,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/08 13:58:28.000.361,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/16 07:58:06.000.484,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/30 16:37:50.000.649,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/18 10:48:55.000.351,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/02 08:06:12.000.049,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/02 08:08:41.000.271,C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Fontes\Teste\Felipe\Exemplo\UnitMenuPrincipal.dfm</Transaction>
+    <Transaction>2019/11/02 08:08:41.000.271,C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Fontes\Teste\Felipe\Exemplo\UnitMenuPrincipal.pas</Transaction>
+    <Transaction>2019/11/02 08:08:46.000.879,C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Fontes\Teste\Felipe\Exemplo\SistemaX.dproj</Transaction>
+    <Transaction>2019/11/02 08:10:27.000.149,=C:\Fontes\Teste\Felipe\Exemplo\Unit1.pas</Transaction>
+    <Transaction>2019/11/02 08:11:25.000.587,C:\Fontes\Teste\Felipe\Exemplo\Unit1.pas=C:\Fontes\Teste\Felipe\Exemplo\UnitClienteCAD.pas</Transaction>
+    <Transaction>2019/11/02 08:11:25.000.587,C:\Fontes\Teste\Felipe\Exemplo\Unit1.dfm=C:\Fontes\Teste\Felipe\Exemplo\UnitClienteCAD.dfm</Transaction>
+    <Transaction>2019/11/02 11:43:44.000.182,=C:\Fontes\Teste\Felipe\Exemplo\Unit1.pas</Transaction>
+    <Transaction>2019/11/02 11:44:00.000.308,C:\Fontes\Teste\Felipe\Exemplo\Unit1.dfm=C:\Fontes\Teste\Felipe\Exemplo\UnitDtm.dfm</Transaction>
+    <Transaction>2019/11/02 11:44:00.000.308,C:\Fontes\Teste\Felipe\Exemplo\Unit1.pas=C:\Fontes\Teste\Felipe\Exemplo\UnitDtm.pas</Transaction>
+    <Transaction>2019/11/02 12:19:34.000.017,=C:\Fontes\Teste\Felipe\Exemplo\unitArquivoINI.pas</Transaction>
+    <Transaction>2019/11/02 12:21:49.000.112,C:\Fontes\Teste\Felipe\Exemplo\unitArquivoINI.pas=</Transaction>
+    <Transaction>2019/11/02 12:27:11.000.671,=C:\Fontes\Teste\Felipe\Exemplo\unitArquivoINI.pas</Transaction>
+    <Transaction>2019/11/02 16:43:19.355,=C:\Fontes\Teste\Felipe\Exemplo\UnitLogin.pas</Transaction>
+  </Transactions>
+</BorlandProject>
